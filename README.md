@@ -32,15 +32,15 @@ Some sample images used in the report have been provided in the `images` folder.
 This section only showcases some of the results obtained with our implementation. For more details regarding the theory, implementation choices and the obtained results please refer to the pdf report.     
 The following images where generated with "Stockholm" as content picture (`/images/input/stockholm.jpg`) and various style images (see report for details).
 
-![example of style transfer](https://raw.githubusercontent.com/jojo38000/KTH_DL_Proj/master/reports/style_transfer_introduction.jpg) 
+![example of style transfer](/reports/style_transfer_introduction.jpg) 
 
-![example of style transfer](https://raw.githubusercontent.com/jojo38000/KTH_DL_Proj/master/reports/Image_Results/best_gatys/b6_stockholm_femme_iter_200_conv2_2_r10.0_s1000.0_c5.0.png)
+![example of style transfer](/reports/Image_Results/best_gatys/b6_stockholm_femme_iter_200_conv2_2_r10.0_s1000.0_c5.0.png)
 
-![example of style transfer](https://raw.githubusercontent.com/jojo38000/KTH_DL_Proj/master/reports/Image_Results/best_gatys/b7_stockholm_composition_iter_200_conv2_2_r10.0_s1000.0_c5.0.png)
+![example of style transfer](/reports/Image_Results/best_gatys/b7_stockholm_composition_iter_200_conv2_2_r10.0_s1000.0_c5.0.png)
 
-![example of style transfer](https://raw.githubusercontent.com/jojo38000/KTH_DL_Proj/master/reports/Image_Results/based_on_tutorial/b7_stockholm_chaos_iter_200_r0.1_s5.0_c0.025.png)
+![example of style transfer](/reports/Image_Results/based_on_tutorial/b7_stockholm_chaos_iter_200_r0.1_s5.0_c0.025.png)
 
-![example of style transfer](https://raw.githubusercontent.com/jojo38000/KTH_DL_Proj/master/reports/Image_Results/based_on_tutorial/b6_stockholm_waves_iter_200_r0.1_s5.0_c0.025.png)
+![example of style transfer](/reports/Image_Results/based_on_tutorial/b6_stockholm_waves_iter_200_r0.1_s5.0_c0.025.png)
 
 # Report
 
